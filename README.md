@@ -26,7 +26,10 @@ visualizations that empower business leaders for better decision-making.
 
  💬 Why This Matters to Business Teams
  If you’re driving regional sales, profit & quantity, this dashboard helps you:
- ★  Identify growth markets and high-performing regions
+ ★  Identify growth markets and high-performing regions.
  ★  Plan targeted sales and marketing efforts by region.
- ★  Track YoY performance region levels
- ★ Make informed decisions backed by data-driven insights
+ ★  Track YoY performance region levels.
+ ★ Make informed decisions backed by data-driven insights.
+
+![DashboardPreview] (https://github.com/salmanshariff07/Sales_Analysis_PowerBI/blob/main/Sales_Overview_Analysis.jpg)
+
