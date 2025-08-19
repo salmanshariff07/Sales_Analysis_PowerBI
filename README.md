@@ -1,8 +1,8 @@
 # Sales_Analysis_PowerBI
 ## Sales Overview &amp; Regional Analysis Dashboard
 
-## Project Description
 A dynamic Sales Overview and Regional Analysis Dashboard that provides a clear view of sales trends, regional contributions, product performance, and YoY growth patterns across multiple years.
+
 The goal was to transform sales and regional data into meaningful, interactive
 visualizations that empower business leaders for better decision-making.
 
@@ -42,4 +42,4 @@ visualizations that empower business leaders for better decision-making.
  
 
 ![DashboardPreview](https://github.com/salmanshariff07/Sales_Analysis_PowerBI/blob/main/Sales_Overview_Analysis.jpg)
-
+![DashboardPreview](https://github.com/salmanshariff07/Sales_Analysis_PowerBI/blob/main/Sales_Region_Analysis.jpg)
