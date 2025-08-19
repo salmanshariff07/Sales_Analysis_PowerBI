@@ -6,14 +6,14 @@ A dynamic Sales Overview and Regional Analysis Dashboard that provides a clear v
 The goal was to transform sales and regional data into meaningful, interactive
 visualizations that empower business leaders for better decision-making.
 
-## 🎯 What This Dashboard Solves;
+### 🎯 What This Dashboard Solves;
  1. Tracks regional sales performance with Year-over-Year (YoY) growth comparisons
  2. Highlights top-performing states and regions driving revenue
  3. Provides insights into product segment and category trends
  4. Visualizes seasonality in sales patterns, especially second-half peaks
  5. Offers dynamic filtering by Sales, Profit and Quantity on an yearly track
 
-## 💡 Key Metrics Delivered
+### 💡 Key Metrics Delivered
  -Total Sales by Region, State, Segment, and Category
  
  -YoY Growth across different regions and states
@@ -24,12 +24,12 @@ visualizations that empower business leaders for better decision-making.
  
  -Dynamic KPI cards with PY and YoY comparisons
 
-## ✅ Tech Stack
+### ✅ Tech Stack
  • Power BI - for Power Query and DAX measures and Data Visualization.
  
  • SQL & Excel - for initial data review and validation.
 
- ## 💬 Why This Matters to Business Teams
+ ### 💬 Why This Matters to Business Teams
  If you’re driving regional sales, profit & quantity, this dashboard helps you:
  
  ★  Identify growth markets and high-performing regions.
